@@ -44,11 +44,9 @@ This project is a Python-based web scraping tool designed to extract and analyze
 
 2. **Run the Scraper**:
 
-   ```bash
-   python scraper.py
-   ```
-
-3. **Access the Output**:
+   Run it in ingre_download.ipynb to watch over the program
+   
+4. **Access the Output**:
 
    The extracted and processed data will be available in the `output/` directory in CSV format.
 
